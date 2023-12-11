@@ -1,4 +1,5 @@
-![kumod logo fiver](https://github.com/kumodcodes/kumodcodes/assets/116749725/4412c511-72c6-4320-805a-b3b3d71234e1)
+![LOGO](https://github.com/kumodcodes/kumodcodes/assets/116749725/78c57802-730d-4f37-9370-9cdaebf22771)
+
 <h1 align="center">Hi 👋, I'm Kumod De Silva</h1>
 <h3 align="center">Tech Enthusiasts from Sri Lanka 🏝</h3>
 
