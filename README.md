@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kumodnenuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumodnenuka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kumod-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumod-de-silva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kumod-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumod-de-silva-4b5560246" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kumod-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kumod-de-silva" height="30" width="40" /></a>
 <a href="https://instagram.com/ku.mod__x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ku.mod__x" height="30" width="40" /></a>
 <a href="https://dribbble.com/kumod_graphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kumod_graphics" height="30" width="40" /></a>
